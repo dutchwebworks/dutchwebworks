@@ -1,3 +1,3 @@
 # Dutchwebworks personal web site
 
-*By Dennis Burger, Waddinxveen, september 2018*
+*By Dennis Burger, September 2018*
